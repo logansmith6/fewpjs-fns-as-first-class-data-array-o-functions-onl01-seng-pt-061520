@@ -36,3 +36,6 @@ function unleashDog(dogName, dogBreed){
 
 
 let routine = [wakeDog, leashDog, walkToPark, throwFrisbee, walkHome,unleashDog];
+
+function excerciseDog(dogName, dogBreed);
+let i = routine.length - 1;
