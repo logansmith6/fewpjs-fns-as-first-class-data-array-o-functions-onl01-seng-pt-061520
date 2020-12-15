@@ -43,4 +43,5 @@ function exerciseDog(dogName, dogBreed){
   for (let i = 0; i < count; i++){
     final.unshift(routine[i](dogName, dogBreed));
   }
+  return final;
 }
