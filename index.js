@@ -23,7 +23,7 @@ function throwFrisbee(dogName, dogBreed){
 }
 
 function walkHome(dogName, dogBreed){
-  let action = `Wake ${dogName} the ${dogBreed}`
+  let action = `Walk home with ${dogName} the ${dogBreed}`
   console.log(action);
   return action;
 }
