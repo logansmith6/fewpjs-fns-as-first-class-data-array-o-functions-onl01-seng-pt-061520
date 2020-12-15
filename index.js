@@ -42,5 +42,4 @@ function excerciseDog(dogName, dogBreed){
   for (i = 0; i < count; i++){
     routine[i](dogName, dogBreed);
   }
-
 }
