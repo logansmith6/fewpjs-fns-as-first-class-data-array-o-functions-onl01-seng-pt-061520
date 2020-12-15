@@ -33,3 +33,6 @@ function unleashDog(dogName, dogBreed){
   console.log(action);
   return action;
 }
+
+
+let routine = [wakeDog, leashDog, walkToPark, throwFrisbee, walkHome,unleashDog]
